@@ -65,8 +65,7 @@ body {
 }
 
 .search-engine-list {
-  width: 77%;
-  padding-left: 3%;
+  width: 80%;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
@@ -75,6 +74,7 @@ body {
 }
 
 .each-search-engine {
+  width: 30%;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
